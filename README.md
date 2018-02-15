@@ -24,6 +24,8 @@
 
 ## Browsers
 - [How browsers work](https://www.html5rocks.com/en/tutorials/internals/howbrowserswork/)
+- [Jake Archibald about explains JS loop](https://www.youtube.com/watch?v=cCOL7MC4Pl0)
+- [Jake Archibald about Tasks, microtasks, queues and schedules](https://jakearchibald.com/2015/tasks-microtasks-queues-and-schedules/)
 
 ## CSS
 - [Quantity queries](http://alistapart.com/article/quantity-queries-for-css)
