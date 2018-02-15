@@ -35,3 +35,4 @@
 
 ## History
 - [John Resig's micro templating](https://johnresig.com/blog/javascript-micro-templating/)
+- [The history of the HTML5 shiv](https://www.paulirish.com/2011/the-history-of-the-html5-shiv/)
