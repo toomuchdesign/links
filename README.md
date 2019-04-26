@@ -5,7 +5,9 @@
 - [Change detection in JS frameworks](http://teropa.info/blog/2015/03/02/change-and-its-detection-in-javascript-frameworks.html)
 - [Eric Elliott about OOP vs. Prototypal inheritance](https://www.youtube.com/watch?v=lKCCZTUx0sI)
 
-## NPM
+## Node/NPM
+
+- [Custom require resolution](https://gist.github.com/branneman/8048520)
 
 ### Monorepos
 - [Why we dropped Lerna from PouchDB](https://gist.github.com/nolanlawson/457cdb309c9ec5b39f0d420266a9faa4)
