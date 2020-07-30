@@ -8,6 +8,7 @@
 ## Node/NPM
 
 - [Custom require resolution](https://gist.github.com/branneman/8048520)
+- [Packages are not verified](https://medium.com/hackernoon/im-harvesting-credit-card-numbers-and-passwords-from-your-site-here-s-how-9a8cb347c5b5)
 
 ### Monorepos
 - [Why we dropped Lerna from PouchDB](https://gist.github.com/nolanlawson/457cdb309c9ec5b39f0d420266a9faa4)
@@ -17,6 +18,8 @@
 - [Git foxtrot merge](https://developer.atlassian.com/blog/2016/04/stop-foxtrots-now)
 
 ## ReactJS
+
+- [Build your own React](https://pomb.us/build-your-own-react/)
 
 ### Promise and Swallowed errors
 - [Dan Abramov's shout-out](https://twitter.com/dan_abramov/status/776891811222675457?lang=en)
