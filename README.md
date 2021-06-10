@@ -1,9 +1,10 @@
 # Links
 
 ## JS
-- [Kyle Simpson about JS scope and closures](https://frontendmasters.com/courses/javascript-foundations/)
+- [Kyle Simpson, JS scope and closures](https://frontendmasters.com/courses/javascript-foundations/)
 - [Change detection in JS frameworks](http://teropa.info/blog/2015/03/02/change-and-its-detection-in-javascript-frameworks.html)
-- [Eric Elliott about OOP vs. Prototypal inheritance](https://www.youtube.com/watch?v=lKCCZTUx0sI)
+- [Eric Elliott, OOP vs. Prototypal inheritance](https://www.youtube.com/watch?v=lKCCZTUx0sI)
+- [Douglas Crockford, does it spark joy?](https://www.youtube.com/watch?v=NPB34lDZj3E)
 
 ## Node/NPM
 
@@ -18,7 +19,6 @@
 - [Git foxtrot merge](https://developer.atlassian.com/blog/2016/04/stop-foxtrots-now)
 
 ## ReactJS
-
 - [Build your own React](https://pomb.us/build-your-own-react/)
 
 ### Promise and Swallowed errors
@@ -27,19 +27,23 @@
 - [Then vs. catch](https://javascript.info/task/then-vs-catch)
 
 ## JSX
-- [M. Jackson exmplains why JSX is awesome (first 10 minutes)](https://www.youtube.com/watch?v=Vur2dAFZ4GE)
+- [M. Jackson, why JSX is awesome (first 10 minutes)](https://www.youtube.com/watch?v=Vur2dAFZ4GE)
 - [Conditional rendering](https://www.robinwieruch.de/conditional-rendering-react/)
 
 ## Browsers
 - [How browsers work](https://www.html5rocks.com/en/tutorials/internals/howbrowserswork/)
-- [Jake Archibald about explains JS loop](https://www.youtube.com/watch?v=cCOL7MC4Pl0)
-- [Jake Archibald about Tasks, microtasks, queues and schedules](https://jakearchibald.com/2015/tasks-microtasks-queues-and-schedules/)
+- [Jake Archibald, JS loop](https://www.youtube.com/watch?v=cCOL7MC4Pl0)
+- [Jake Archibald, Tasks, microtasks, queues and schedules](https://jakearchibald.com/2015/tasks-microtasks-queues-and-schedules/)
 
 ## CSS
 - [Quantity queries](http://alistapart.com/article/quantity-queries-for-css)
 
+## Web components
+- [Rich Harris, Why I don't use web components](https://dev.to/richharris/why-i-don-t-use-web-components-2cia)
+- [Web Components trade-offs](https://gist.github.com/just-boris/62ba417b248b99c76163f522c4fdb0a3)
+
 ## Coding
-- [Cheng Lou on choosing the right level of abstraction](https://www.youtube.com/watch?v=mVVNJKv9esE)
+- [Cheng Lou, choosing the right level of abstraction](https://www.youtube.com/watch?v=mVVNJKv9esE)
 
 ## History
 - [John Resig's micro templating](https://johnresig.com/blog/javascript-micro-templating/)
