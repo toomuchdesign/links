@@ -5,6 +5,7 @@
 - [Change detection in JS frameworks](http://teropa.info/blog/2015/03/02/change-and-its-detection-in-javascript-frameworks.html)
 - [Eric Elliott, OOP vs. Prototypal inheritance](https://www.youtube.com/watch?v=lKCCZTUx0sI)
 - [Douglas Crockford, does it spark joy?](https://www.youtube.com/watch?v=NPB34lDZj3E)
+- [The history of "typeof null"](https://2ality.com/2013/10/typeof-null.html)
 
 ## Node/NPM
 
@@ -20,6 +21,7 @@
 
 ## ReactJS
 - [Build your own React](https://pomb.us/build-your-own-react/)
+- [Ken Wheeler, Mixed Mode React (custom React renderers)](https://www.youtube.com/watch?v=PBpugV5l90c)
 
 ### Promise and Swallowed errors
 - [Dan Abramov's shout-out](https://twitter.com/dan_abramov/status/776891811222675457?lang=en)
